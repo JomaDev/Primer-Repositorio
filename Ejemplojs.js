@@ -3,6 +3,7 @@ function Suma() {
   var w = document.getElementById('textb2').value;
   if(d == "" || w == "")
   {
+    alert("No falles");
     alert("Ingrese corectamente los números");
   }
   else
