@@ -10,6 +10,6 @@ function Suma() {
   {
     var s;
     s = parseInt(w)+parseInt(d);
-    alert("La suma es de: "+ s);
+    alert("La suma es de: "+ s+" unidades");
   }
 }
